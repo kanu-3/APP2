@@ -1,16 +1,16 @@
-# task2
+# LOG IN AND SIGN UP PAGE IN FLUTTER(ANDROID AND IOS)
 
-A new Flutter project.
+A basic Sign up and Log in project 
 
-## Getting Started
+## About this project
 
-This project is a starting point for a Flutter application.
+This project is regarding a basic interface of sign up and log in page for uploading profile section which is the base to almost all projects.
+It consists of various fields such as name,student number,interests and so on.
+The project is authenticated and validated.
 
-A few resources to get you started if this is your first Flutter project:
+### Backend integration using firebase which stores data dynamically on log in and sign up.
+Firebase was the best start for this project as integration is simple and can be easily understood and modified.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Feel free to ask or clear any doubts.
+### Happy Learning;)
